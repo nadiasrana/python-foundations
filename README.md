@@ -1,4 +1,4 @@
-# Python-Foundations
+# Foundations-Data-Analytics
 Foundational Python and Data Analytics 
 This respository contains my foundational Python and data analytics labs from my MS in Data Analytics Engineering program at Northeastern University. 
 
