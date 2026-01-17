@@ -1,12 +1,19 @@
-# Foundations-Data-Analytics
-Foundational Python and Data Analytics 
-This respository contains my foundational Python and data analytics labs from my MS in Data Analytics Engineering program at Northeastern University. 
+# Python Foundations for Data Analytics
 
-## Topic Covered 
-- Integer and floating-point variables
-- if-elif-else conditional logic
-- for loops and while loops
-- Program flow and iteration
-- Applied practice examples
+This repository demonstrates my core Python skills applied to data analytics workflows.  
+It includes structured exercises and practical examples that showcase my ability to write, execute, and explain Python code clearly and efficiently.
 
-This repository demonstrates my ability to write, execute, and explain Python code in a data analytics context. 
+The work focuses on foundational concepts that are essential for data analyst, data engineering, and entry-level data science roles.
+
+## Skills Demonstrated
+- Python programming fundamentals
+- Data structures and control flow
+- Writing clean, readable, and well-documented code
+- Logical problem solving and iteration
+- Translating requirements into working Python solutions
+
+## Repository Structure
+- **module-1-basics/** – Core Python syntax, variables, conditionals, loops, and program flow
+- **module-2-data-structures/** – Lists, tuples, dictionaries, sets, and common data manipulation patterns
+
+This repository reflects my ongoing development in Python as part of my professional preparation for full-time roles in data analytics and related fields.
