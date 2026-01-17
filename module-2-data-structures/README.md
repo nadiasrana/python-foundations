@@ -1,11 +1,13 @@
 # Module 2 – Python Data Structures
 
-This notebook demonstrates Python list, tuple, dictionary, and set operations.
+This module demonstrates the use of Python data structures commonly applied in data analytics and data processing tasks.
 
-Topics covered:
+The examples focus on writing concise, efficient code to manipulate and organize data using built-in Python structures.
+
+## Topics Covered
 - List insertion and list comprehensions
-- Tuple slicing and unpacking
-- Dictionary updates and pop operations
-- Set difference and union
+- Tuple unpacking and slicing
+- Dictionary updates and key-value operations
+- Set difference and union for handling unique values
 
-This work is part of my coursework in the Data Analytics Engineering program at Northeaster
+These patterns are foundational for data cleaning, transformation, and analysis workflows in Python. 
